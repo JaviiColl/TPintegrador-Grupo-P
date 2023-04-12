@@ -7,6 +7,7 @@
 2. [Funcionalidades del Proyecto 🛠](#funcionalidades-del-proyecto-)
 3. [Tecnologias📲](#tecnologias)
 4. [Instalacion](#instalacion)
+5. [Preview](#preview)
 5. [Collaboration](#collaboration)
 
 ### General📚
@@ -31,12 +32,18 @@ Lista de las tecnologías utilizadas en este proyecto:
 * ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+<br>
+<br>
 ### Instalacion
 No es necesaria ninguna instalación de paquetes via CDM, solo dale a "Fork" aqui en Github, luego descargalo y ejecutalo con GoLive en tu VSCode, simple como eso!
 ***
+### Preview
+aqui encontrarás el preview de la pagina en FIgma, haciendo click aqui debajo! <br>
+<a href="https://www.figma.com/file/5Zn2suCa88HwOX585SekFV/Builder.io---Figma-to-HTML%2C-React%2C-and-more-(Community)?node-id=0-1&t=CVv2ZkzVhwIfng7s-0" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="a FIGMA"></a>
 
 
-## Collaboration
+
+### Collaboration
 ***
 Give instructions on how to collaborate with your project.
 > Maybe you want to write a quote in this part. 
