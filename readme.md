@@ -6,9 +6,9 @@
 1. [General📚](#general)
 2. [Funcionalidades del Proyecto 🛠](#funcionalidades-del-proyecto-)
 3. [Tecnologias📲](#tecnologias)
-4. [Instalación](#instalación)
-5. [Preview](#preview)
-6. [Integrantes](#integrantes)
+4. [Instalación⚙](#instalación)
+5. [Preview🖥](#preview)
+6. [Integrantes👩🏻‍💻](#integrantes)
 
 ### General📚
 
@@ -34,17 +34,17 @@ Lista de las tecnologías utilizadas en este proyecto:
 
 ***
 
-### Instalación
+### Instalación⚙ 
 
 No es necesaria ninguna instalación de paquetes via CDM, solo dale a "Fork" aqui en Github, luego descargalo y ejecutalo con GoLive en tu VSCode, simple como eso!
 ***
-### Preview
+### Preview🖥 
 aqui encontrarás el preview de nuestro Landing-Page en Figma, haciendo click aqui debajo! <br>
 <a href="https://www.figma.com/file/5Zn2suCa88HwOX585SekFV/Builder.io---Figma-to-HTML%2C-React%2C-and-more-(Community)?node-id=0-1&t=CVv2ZkzVhwIfng7s-0" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="a FIGMA"></a>
 
 
 ***
-### Integrantes
+### Integrantes👩🏻‍💻
 
 *DARDO JAVIER COLL              (37062730, dardojcoll@gmail.com)*<br>
 *ANGEL LUIS CARI                (37087811, angelcari24@gmail.com)*<br>				
