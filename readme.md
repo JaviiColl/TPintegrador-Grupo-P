@@ -13,7 +13,7 @@
 ### General📚
 
 _Zeus Gaming es una empresa ficticia creada e inspirada en la necesidad de ayudar a un público general a encontrar los mejores productos para gaming y juegos en un solo lugar.
-La página cuenta con una seccion de Catalogo, la misma a su vez nos muestra secciones para diferenciar los diferentes productos; una sección GG WP!, exclusiva para gamers activos; una breve reseña de nuestros clientes y finalizando encontraran un formulario de contacto._
+La página cuenta con una seccion de Catalogo, la misma a su vez nos muestra secciones para diferenciar los productos que se ofrecen; una sección GG WP! exclusiva para gamers; una breve reseña de nuestros clientes y finalizando encontraran un formulario de contacto._
 
 
 ### Funcionalidades del Proyecto 🛠
